@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  13 MAY 2024 03:06
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  13 MAY 2024 09:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -108,7 +108,7 @@ LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 7.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 11.
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -118,20 +118,20 @@ File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 ) (weeklyTasks.aux)
 \openout1 = `weeklyTasks.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count275
@@ -151,54 +151,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-<gfx/fig.png, id=1, 379.4175pt x 351.3125pt>
-File: gfx/fig.png Graphic file (type png)
-<use gfx/fig.png>
-Package pdftex.def Info: gfx/fig.png  used on input line 10.
-(pdftex.def)             Requested size: 379.41656pt x 351.31163pt.
+<gfx/lines.png, id=1, 188.20313pt x 188.20313pt>
+File: gfx/lines.png Graphic file (type png)
+<use gfx/lines.png>
+Package pdftex.def Info: gfx/lines.png  used on input line 14.
+(pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
  [1
 
-{C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./gfx/fig.png>]
-<gfx/l2t2.PNG, id=11, 484.81125pt x 331.2375pt>
+{C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./gfx/lines.png>]
+<gfx/fig.png, id=10, 379.4175pt x 351.3125pt>
+File: gfx/fig.png Graphic file (type png)
+<use gfx/fig.png>
+Package pdftex.def Info: gfx/fig.png  used on input line 24.
+(pdftex.def)             Requested size: 379.41656pt x 351.31163pt.
+ [2 <./gfx/fig.png>]
+<gfx/l2t2.PNG, id=16, 484.81125pt x 331.2375pt>
 File: gfx/l2t2.PNG Graphic file (type png)
 <use gfx/l2t2.PNG>
-Package pdftex.def Info: gfx/l2t2.PNG  used on input line 22.
+Package pdftex.def Info: gfx/l2t2.PNG  used on input line 36.
 (pdftex.def)             Requested size: 484.81006pt x 331.23668pt.
 
-Overfull \hbox (94.81006pt too wide) in paragraph at lines 22--23
+Overfull \hbox (94.81006pt too wide) in paragraph at lines 36--37
  [] 
  []
 
-<gfx/l2t3.PNG, id=12, 813.79031pt x 372.64218pt>
+<gfx/l2t3.PNG, id=17, 721.94719pt x 350.81062pt>
 File: gfx/l2t3.PNG Graphic file (type png)
 <use gfx/l2t3.PNG>
-Package pdftex.def Info: gfx/l2t3.PNG  used on input line 26.
-(pdftex.def)             Requested size: 488.27795pt x 223.58702pt.
+Package pdftex.def Info: gfx/l2t3.PNG  used on input line 40.
+(pdftex.def)             Requested size: 505.35959pt x 245.56575pt.
 
-Overfull \hbox (98.27795pt too wide) in paragraph at lines 26--27
+Overfull \hbox (115.35959pt too wide) in paragraph at lines 40--41
  [] 
  []
 
-[2
+[3
 
- <./gfx/l2t2.PNG>] [3 <./gfx/l2t3.PNG>] (weeklyTasks.aux)
+ <./gfx/l2t2.PNG>] [4 <./gfx/l2t3.PNG>] (weeklyTasks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2056 strings out of 474423
- 31789 string characters out of 5743134
+ 2077 strings out of 474423
+ 32127 string characters out of 5743134
  1927496 words of memory out of 5000000
- 24420 multiletter control sequences out of 15000+600000
- 565902 words of font info for 47 fonts, out of 8000000 for 9000
+ 24436 multiletter control sequences out of 15000+600000
+ 571555 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,5n,65p,291b,190s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,291b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on weeklyTasks.pdf (3 pages, 97786 bytes).
+Output written on weeklyTasks.pdf (4 pages, 104810 bytes).
 PDF statistics:
- 35 PDF objects out of 1000 (max. 8388607)
+ 40 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

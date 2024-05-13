@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715548872.25974 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1715548873.55722 0
+["pdflatex"] 1715571819.61552 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1715571821.3448 0
   "C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715544971 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713871741 24234631 6930eeef40dda66ef85c3e830c88808f ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -9,7 +9,11 @@
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmr8r.tfm" 1136801054 4408 25b74d011a4c66b7f212c0cc3c90061b ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri7t.tfm" 1136801054 2288 f478fc8fed18759effb59f3dad7f3084 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/times/ptmri8r.tfm" 1136801054 4640 532ca3305aad10cc01d769f3f91f1029 ""
+  "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
+  "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmex10.tfm" 1136765053 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
+  "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi12.tfm" 1136765053 1524 4414a8315f39513458b80dfc63bff03a ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmr12.tfm" 1136765053 1288 655e228510b4c2a1abe905c368440826 ""
+  "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb" 1136882148 44729 fea0975e20ec51c992338362f05f1146 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb" 1136882148 46026 687528a208fbfc1f00832bb96cccebbb ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb" 1136882148 45458 504e2b06fa82109d168c7a0afb09e145 ""
@@ -35,12 +39,13 @@
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1710412547 29918 d08e4795c0778dfb000e82d9225c6ce2 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/times.sty" 1585926771 888 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
-  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1715548807 1258 bf6d89fe7e49f61da47393e5a8e756ec ""
+  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1715571817 1631 d2775c5e3cb54f8ed0149aa32eeece83 ""
   "gfx/fig.png" 1715519518 28954 4de650f5216052f3d5289bc190a59325 ""
   "gfx/l2t2.PNG" 1715548857 17139 e12da84409c40b16bc8dfece3e3f088e ""
-  "gfx/l2t3.PNG" 1715548375 31736 c5b33c52a918270c538cc199aa2763e5 ""
-  "weeklyTasks.aux" 1715548873 1351 6baa6e63a49084d776a6820fe12f3afa "pdflatex"
-  "weeklyTasks.tex" 1715548807 1258 bf6d89fe7e49f61da47393e5a8e756ec ""
+  "gfx/l2t3.PNG" 1715571387 28619 f6899fb4b3d451c6c7ed07ab4e5801a2 ""
+  "gfx/lines.png" 1715517824 1828 a06889a16a0b526c1086e7e74ecf8086 ""
+  "weeklyTasks.aux" 1715571820 1351 d6087c6a9f42b23e096eeef1376cdb35 "pdflatex"
+  "weeklyTasks.tex" 1715571817 1631 d2775c5e3cb54f8ed0149aa32eeece83 ""
   (generated)
   "weeklyTasks.aux"
   "weeklyTasks.log"

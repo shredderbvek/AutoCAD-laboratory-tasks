@@ -3,7 +3,7 @@
 \usepackage{graphicx} % Required for the inclusion of images
 \usepackage{amsmath} % Required for some math elements 
 \usepackage{times} % Uncomment to use the Times New Roman font
-
+\usepackage{pgffor}
 \title{Institute of Engineering,\\ Thapathali Campus \\ Computer Aided Drawing \\ ME 505} % Title
 \author{Bibek Magar}
 \date{\today} % Date for the report
@@ -18,7 +18,7 @@
 	\end{center}
 	
 	\newpage
-
+%lab 1
 \section{lab 1: Introduction to AutoCAD interface and coordinate systems}
 \begin{center}
 	\includegraphics{gfx/fig.png}
@@ -31,12 +31,19 @@
 %lab2
 \section{lab 2: Introduction to AutoCAD sketch tools}
 \subsection{Draw a parabola with double ordinate 100 mm and axis 60 mm. }
-\subsection{Draw the given figure in AutoCAD and write the command sequence.}
-\begin{center}
-    \includegraphics{gfx/l2t2.PNG}
-\end{center}
-\subsection{Draw the given figure in AutoCAD and write the command sequence.}
-\begin{center}
-    \includegraphics[scale = 0.7]{gfx/l2t3.PNG}
-\end{center}
+\foreach \i in {2,...,3}{
+	\subsection{Draw the given figure in AutoCAD and write the command sequence.}
+	\begin{center}
+    	\includegraphics[width = 17cm]{gfx/l2t\i.PNG}
+	\end{center}
+}
+\clearpage
+%lab 3
+\section{Lab 3: Introduction to AutoCAD modify tools}
+\foreach \n in {1,...,6}{
+	\subsection{Draw the given figure in AutoCAD and write the command sequence.}
+	\begin{center}
+		\includegraphics[scale= 0.6]{gfx/l3t\n.png}
+	\end{center}
+}
 \end{document}

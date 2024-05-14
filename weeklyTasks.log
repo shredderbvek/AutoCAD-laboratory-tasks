@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  13 MAY 2024 09:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  14 MAY 2024 23:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -107,14 +107,55 @@ LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
+\pgfutil@everybye=\toks23
+\pgfutil@tempdima=\dimen152
+\pgfutil@tempdimb=\dimen153
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
+\pgfutil@abb=\box53
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+)) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks26
+))) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
+\pgf@x=\dimen154
+\pgf@xa=\dimen155
+\pgf@xb=\dimen156
+\pgf@xc=\dimen157
+\pgf@y=\dimen158
+\pgf@ya=\dimen159
+\pgf@yb=\dimen160
+\pgf@yc=\dimen161
+\c@pgf@counta=\count274
+\c@pgf@countb=\count275
+\c@pgf@countc=\count276
+\c@pgf@countd=\count277
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count278
+\pgfmath@box=\box54
+\pgfmath@toks=\toks27
+\pgfmath@stack@operand=\toks28
+\pgfmath@stack@operation=\toks29
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count279
+))) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen163
+\pgffor@skip=\dimen164
+\pgffor@stack=\toks30
+\pgffor@toks=\toks31
+))
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 11.
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
-\l__pdf_internal_box=\box53
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box55
 ) (weeklyTasks.aux)
 \openout1 = `weeklyTasks.aux'.
 
@@ -134,17 +175,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
-\scratchdimen=\dimen152
-\scratchbox=\box54
-\nofMPsegments=\count276
-\nofMParguments=\count277
-\everyMPshowfont=\toks23
-\MPscratchCnt=\count278
-\MPscratchDim=\dimen153
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
-\everyMPtoPDFconversion=\toks24
+\scratchcounter=\count281
+\scratchdimen=\dimen165
+\scratchbox=\box56
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen166
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks33
 ) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -168,43 +209,78 @@ Package pdftex.def Info: gfx/fig.png  used on input line 24.
 <gfx/l2t2.PNG, id=16, 484.81125pt x 331.2375pt>
 File: gfx/l2t2.PNG Graphic file (type png)
 <use gfx/l2t2.PNG>
-Package pdftex.def Info: gfx/l2t2.PNG  used on input line 36.
-(pdftex.def)             Requested size: 484.81006pt x 331.23668pt.
+Package pdftex.def Info: gfx/l2t2.PNG  used on input line 39.
+(pdftex.def)             Requested size: 483.69684pt x 330.4937pt.
 
-Overfull \hbox (94.81006pt too wide) in paragraph at lines 36--37
+Overfull \hbox (93.69684pt too wide) in paragraph at lines 39--39
  [] 
  []
 
 <gfx/l2t3.PNG, id=17, 721.94719pt x 350.81062pt>
 File: gfx/l2t3.PNG Graphic file (type png)
 <use gfx/l2t3.PNG>
-Package pdftex.def Info: gfx/l2t3.PNG  used on input line 40.
-(pdftex.def)             Requested size: 505.35959pt x 245.56575pt.
+Package pdftex.def Info: gfx/l2t3.PNG  used on input line 39.
+(pdftex.def)             Requested size: 483.69684pt x 235.04189pt.
 
-Overfull \hbox (115.35959pt too wide) in paragraph at lines 40--41
+Overfull \hbox (93.69684pt too wide) in paragraph at lines 39--39
  [] 
  []
 
 [3
 
- <./gfx/l2t2.PNG>] [4 <./gfx/l2t3.PNG>] (weeklyTasks.aux)
+ <./gfx/l2t2.PNG>] [4 <./gfx/l2t3.PNG>]
+<gfx/l3t1.png, id=26, 498.36188pt x 390.70969pt>
+File: gfx/l3t1.png Graphic file (type png)
+<use gfx/l3t1.png>
+Package pdftex.def Info: gfx/l3t1.png  used on input line 48.
+(pdftex.def)             Requested size: 299.01942pt x 234.42761pt.
+<gfx/l3t2.png, id=27, 328.22626pt x 185.19188pt>
+File: gfx/l3t2.png Graphic file (type png)
+<use gfx/l3t2.png>
+Package pdftex.def Info: gfx/l3t2.png  used on input line 48.
+(pdftex.def)             Requested size: 196.93727pt x 111.11597pt.
+<gfx/l3t3.png, id=28, 552.56438pt x 294.34969pt>
+File: gfx/l3t3.png Graphic file (type png)
+<use gfx/l3t3.png>
+Package pdftex.def Info: gfx/l3t3.png  used on input line 48.
+(pdftex.def)             Requested size: 331.54118pt x 176.61116pt.
+ [5
+
+ <./gfx/l3t1.png> <./gfx/l3t2.png>]
+<gfx/l3t4.png, id=34, 554.07pt x 331.99031pt>
+File: gfx/l3t4.png Graphic file (type png)
+<use gfx/l3t4.png>
+Package pdftex.def Info: gfx/l3t4.png  used on input line 48.
+(pdftex.def)             Requested size: 332.44456pt x 199.19571pt.
+<gfx/l3t5.png, id=35, 516.42938pt x 389.20406pt>
+File: gfx/l3t5.png Graphic file (type png)
+<use gfx/l3t5.png>
+Package pdftex.def Info: gfx/l3t5.png  used on input line 48.
+(pdftex.def)             Requested size: 309.86002pt x 233.52423pt.
+ [6 <./gfx/l3t3.png> <./gfx/l3t4.png>]
+<gfx/l3t6.png, id=41, 513.41812pt x 325.215pt>
+File: gfx/l3t6.png Graphic file (type png)
+<use gfx/l3t6.png>
+Package pdftex.def Info: gfx/l3t6.png  used on input line 48.
+(pdftex.def)             Requested size: 308.05324pt x 195.1305pt.
+ [7 <./gfx/l3t5.png> <./gfx/l3t6.png>] (weeklyTasks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 2077 strings out of 474423
- 32127 string characters out of 5743134
+ 7309 strings out of 474423
+ 141756 string characters out of 5743134
  1927496 words of memory out of 5000000
- 24436 multiletter control sequences out of 15000+600000
+ 29588 multiletter control sequences out of 15000+600000
  571555 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,291b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,6n,65p,484b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on weeklyTasks.pdf (4 pages, 104810 bytes).
+Output written on weeklyTasks.pdf (7 pages, 282559 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
 

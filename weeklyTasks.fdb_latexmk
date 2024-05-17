@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715709592.06074 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1715709593.55962 0
+["pdflatex"] 1715922471.54752 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1715922473.10941 0
   "C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715707534 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713871741 24234631 6930eeef40dda66ef85c3e830c88808f ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -67,7 +67,7 @@
   "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1715709589 1811 a619df0e933f2320d1d42fe199e63832 ""
   "gfx/fig.png" 1715519518 28954 4de650f5216052f3d5289bc190a59325 ""
   "gfx/l2t2.PNG" 1715548857 17139 e12da84409c40b16bc8dfece3e3f088e ""
-  "gfx/l2t3.PNG" 1715571387 28619 f6899fb4b3d451c6c7ed07ab4e5801a2 ""
+  "gfx/l2t3.PNG" 1715922426 27015 5eed98dcb0145c2fd3dd84d8d92c561c ""
   "gfx/l3t1.png" 1715702770 37540 580e4e267dc232b4f34e0c96c6587b61 ""
   "gfx/l3t2.png" 1715702807 18879 9dea120924171b84ba400371928d3447 ""
   "gfx/l3t3.png" 1715702906 35455 82506e970bc3e91dfca57b18332462f2 ""
@@ -75,7 +75,7 @@
   "gfx/l3t5.png" 1715705185 36454 d7935c6513c96221e43d57f1576243f1 ""
   "gfx/l3t6.png" 1715706929 22573 24544d1ce1757a48c7348953d1d2c836 ""
   "gfx/lines.png" 1715517824 1828 a06889a16a0b526c1086e7e74ecf8086 ""
-  "weeklyTasks.aux" 1715709593 2424 198831f39fcf85a30b9e2e7d5542dc31 "pdflatex"
+  "weeklyTasks.aux" 1715922472 2424 198831f39fcf85a30b9e2e7d5542dc31 "pdflatex"
   "weeklyTasks.tex" 1715709589 1811 a619df0e933f2320d1d42fe199e63832 ""
   (generated)
   "weeklyTasks.aux"

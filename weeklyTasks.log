@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  17 MAY 2024 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  25 MAY 2024 08:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -263,24 +263,43 @@ File: gfx/l3t6.png Graphic file (type png)
 <use gfx/l3t6.png>
 Package pdftex.def Info: gfx/l3t6.png  used on input line 48.
 (pdftex.def)             Requested size: 308.05324pt x 195.1305pt.
- [7 <./gfx/l3t5.png> <./gfx/l3t6.png>] (weeklyTasks.aux)
+ [7 <./gfx/l3t5.png> <./gfx/l3t6.png>]
+<gfx/l4t1.PNG, id=48, 341.02406pt x 243.91125pt>
+File: gfx/l4t1.PNG Graphic file (type png)
+<use gfx/l4t1.PNG>
+Package pdftex.def Info: gfx/l4t1.PNG  used on input line 57.
+(pdftex.def)             Requested size: 341.45511pt x 284.53015pt.
+<gfx/l4t2.PNG, id=49, 416.30531pt x 284.56313pt>
+File: gfx/l4t2.PNG Graphic file (type png)
+<use gfx/l4t2.PNG>
+Package pdftex.def Info: gfx/l4t2.PNG  used on input line 57.
+(pdftex.def)             Requested size: 341.44879pt x 284.55807pt.
+ [8
+
+ <./gfx/l4t1.PNG>]
+<gfx/l4t3.PNG, id=54, 520.19344pt x 421.575pt>
+File: gfx/l4t3.PNG Graphic file (type png)
+<use gfx/l4t3.PNG>
+Package pdftex.def Info: gfx/l4t3.PNG  used on input line 57.
+(pdftex.def)             Requested size: 341.43166pt x 284.53154pt.
+ [9 <./gfx/l4t2.PNG>] [10 <./gfx/l4t3.PNG>] (weeklyTasks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7309 strings out of 474423
- 141756 string characters out of 5743134
+ 7330 strings out of 474423
+ 142152 string characters out of 5743134
  1927496 words of memory out of 5000000
- 29588 multiletter control sequences out of 15000+600000
+ 29609 multiletter control sequences out of 15000+600000
  571555 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,6n,65p,484b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on weeklyTasks.pdf (7 pages, 281390 bytes).
+Output written on weeklyTasks.pdf (10 pages, 427880 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

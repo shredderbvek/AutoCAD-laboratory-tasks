@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1715922471.54752 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1715922473.10941 0
+["pdflatex"] 1716604425.00707 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1716604426.87883 0
   "C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715707534 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713871741 24234631 6930eeef40dda66ef85c3e830c88808f ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -64,7 +64,7 @@
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1673775190 325 f9f16d12354225b7dd52a3321f085955 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/times.sty" 1585926771 888 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
-  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1715709589 1811 a619df0e933f2320d1d42fe199e63832 ""
+  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1716604421 2070 48675e8c203760c7d4146436f2138fbe ""
   "gfx/fig.png" 1715519518 28954 4de650f5216052f3d5289bc190a59325 ""
   "gfx/l2t2.PNG" 1715548857 17139 e12da84409c40b16bc8dfece3e3f088e ""
   "gfx/l2t3.PNG" 1715922426 27015 5eed98dcb0145c2fd3dd84d8d92c561c ""
@@ -74,9 +74,12 @@
   "gfx/l3t4.png" 1715703007 43903 de44ab17289a6a82b4ab3fd6d3270a1f ""
   "gfx/l3t5.png" 1715705185 36454 d7935c6513c96221e43d57f1576243f1 ""
   "gfx/l3t6.png" 1715706929 22573 24544d1ce1757a48c7348953d1d2c836 ""
+  "gfx/l4t1.PNG" 1716599553 54217 6d7d96f3dc79bb41d528d5a8d288b41f ""
+  "gfx/l4t2.PNG" 1716603119 42263 6b6d941a576eb865f141deaffadb7ebf ""
+  "gfx/l4t3.PNG" 1716604325 61554 f417968ce6ac43f873fc6c6adabc697f ""
   "gfx/lines.png" 1715517824 1828 a06889a16a0b526c1086e7e74ecf8086 ""
-  "weeklyTasks.aux" 1715922472 2424 198831f39fcf85a30b9e2e7d5542dc31 "pdflatex"
-  "weeklyTasks.tex" 1715709589 1811 a619df0e933f2320d1d42fe199e63832 ""
+  "weeklyTasks.aux" 1716604426 3005 a5f44189ac79df1fff936c3851be73e6 "pdflatex"
+  "weeklyTasks.tex" 1716604421 2070 48675e8c203760c7d4146436f2138fbe ""
   (generated)
   "weeklyTasks.aux"
   "weeklyTasks.log"

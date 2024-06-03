@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  3 JUN 2024 07:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  3 JUN 2024 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -347,11 +347,11 @@ File: gfx/l4t3.PNG Graphic file (type png)
 Package pdftex.def Info: gfx/l4t3.PNG  used on input line 57.
 (pdftex.def)             Requested size: 341.43166pt x 284.53154pt.
  [9 <./gfx/l4t2.PNG>]
-<gfx/l5t1.PNG, id=59, 368.87813pt x 603.75563pt>
+<gfx/l5t1.PNG, id=59, 371.88937pt x 611.28375pt>
 File: gfx/l5t1.PNG Graphic file (type png)
 <use gfx/l5t1.PNG>
 Package pdftex.def Info: gfx/l5t1.PNG  used on input line 62.
-(pdftex.def)             Requested size: 295.10289pt x 483.00516pt.
+(pdftex.def)             Requested size: 297.51189pt x 489.02766pt.
  [10 <./gfx/l4t3.PNG>]
 <gfx/l5t2.PNG, id=64, 580.41844pt x 255.95625pt>
 File: gfx/l5t2.PNG Graphic file (type png)
@@ -380,7 +380,7 @@ Here is how much of TeX's memory you used:
 <C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><
 C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/
 Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on weeklyTasks.pdf (12 pages, 502641 bytes).
+Output written on weeklyTasks.pdf (12 pages, 500545 bytes).
 PDF statistics:
  88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

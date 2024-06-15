@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1717229250.431 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1717229252.21786 0
+["pdflatex"] 1718464989.70361 "e:/cad/weeklyLabTasks/weeklyTasks.tex" "weeklyTasks.pdf" "weeklyTasks" 1718464992.03962 0
   "C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1715707534 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/pc/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1713871741 24234631 6930eeef40dda66ef85c3e830c88808f ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -64,7 +64,7 @@
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/pgf/utilities/pgfrcs.sty" 1673775190 325 f9f16d12354225b7dd52a3321f085955 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/ot1ptm.fd" 1585253778 1007 15056f4a61917ceed3a44e4ac11fcc52 ""
   "C:/Users/pc/AppData/Local/Programs/MiKTeX/tex/latex/psnfss/times.sty" 1585926771 888 8e0e5c8cca7b18e0400f97f5a2b90a99 ""
-  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1717229247 2507 6a53eb112272dcab4c94f05c5ab1c1f8 ""
+  "e:/cad/weeklyLabTasks/weeklyTasks.tex" 1718464985 3045 0e76332e602ec9174f7352004df31c32 ""
   "gfx/fig.png" 1715519518 28954 4de650f5216052f3d5289bc190a59325 ""
   "gfx/l2t2.PNG" 1715548857 17139 e12da84409c40b16bc8dfece3e3f088e ""
   "gfx/l2t3.PNG" 1715922426 27015 5eed98dcb0145c2fd3dd84d8d92c561c ""
@@ -77,11 +77,18 @@
   "gfx/l4t1.PNG" 1716599553 54217 6d7d96f3dc79bb41d528d5a8d288b41f ""
   "gfx/l4t2.PNG" 1716603119 42263 6b6d941a576eb865f141deaffadb7ebf ""
   "gfx/l4t3.PNG" 1716604325 61554 f417968ce6ac43f873fc6c6adabc697f ""
-  "gfx/l5t1.PNG" 1717227428 58420 1684dcf99ac40a46246e6af1696998b1 ""
+  "gfx/l5t1.PNG" 1717419557 55897 6e94bf830f91aa29d38c746e1eecd89b ""
   "gfx/l5t2.PNG" 1717228986 31281 ab726f658c466ba0621972dfaa69d688 ""
+  "gfx/l6t1.PNG" 1718461027 20512 d9677d9f6b663334daa6fcf4fe232c06 ""
+  "gfx/l6t2.PNG" 1718461075 50627 3171593e57b8f5e9bb689d0772426b83 ""
+  "gfx/l6t3.PNG" 1718461535 33440 0788b3f0c2e66f48af8367ca674832aa ""
+  "gfx/l7t1.PNG" 1718464378 39668 519fb7281cb2b2cf3b721ec29b19adda ""
+  "gfx/l7t2.PNG" 1718464574 140010 44503f6ab76da85325f19bcd82622f63 ""
+  "gfx/l7t3.PNG" 1718464789 48466 799369182c2647c1af6aa26a30a09d75 ""
+  "gfx/l7t4.PNG" 1718464454 98519 716be5766c1930c15d99bc8a49e3e5b0 ""
   "gfx/lines.png" 1715517824 1828 a06889a16a0b526c1086e7e74ecf8086 ""
-  "weeklyTasks.aux" 1717229251 3515 7afbc9b70f0c7b487bfb836cf49c5caf "pdflatex"
-  "weeklyTasks.tex" 1717229247 2507 6a53eb112272dcab4c94f05c5ab1c1f8 ""
+  "weeklyTasks.aux" 1718464991 4810 8aa8d3fbdcd26764683505e2d3e92f44 "pdflatex"
+  "weeklyTasks.tex" 1718464985 3045 0e76332e602ec9174f7352004df31c32 ""
   (generated)
   "weeklyTasks.aux"
   "weeklyTasks.log"

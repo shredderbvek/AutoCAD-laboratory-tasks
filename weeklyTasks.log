@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  3 JUN 2024 18:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3.31) (preloaded format=pdflatex 2024.4.23)  15 JUN 2024 21:08
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**./weeklyTasks.tex
-(weeklyTasks.tex
+**e:/cad/weeklyLabTasks/weeklyTasks.tex
+(e:/cad/weeklyLabTasks/weeklyTasks.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
 (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -22,25 +23,20 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
@@ -52,17 +48,14 @@ Package: amsmath 2023/05/13 v2.17o AMS math features
 For additional information on amsmath, use the `?' option.
 (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks18
 \ex@=\dimen143
-))
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+)) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen144
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count196
@@ -112,42 +105,22 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.sty
 Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-co
-mmon.tex
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks23
 \pgfutil@tempdima=\dimen152
 \pgfutil@tempdimb=\dimen153
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-la
-tex.def
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-latex.def
 \pgfutil@abb=\box53
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.cod
-e.tex
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.code.tex (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-))
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.co
-de.tex
+)) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks24
 \pgfkeys@temptoks=\toks25
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslib
-raryfiltered.code.tex
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks26
-)))
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.te
-x
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.cod
-e.tex
+))) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex
 \pgf@x=\dimen154
 \pgf@xa=\dimen155
 \pgf@xb=\dimen156
@@ -160,55 +133,26 @@ e.tex
 \c@pgf@countb=\count275
 \c@pgf@countc=\count276
 \c@pgf@countd=\count277
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.c
-ode.tex
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen162
 \pgfmath@count=\count278
 \pgfmath@box=\box54
 \pgfmath@toks=\toks27
 \pgfmath@stack@operand=\toks28
 \pgfmath@stack@operation=\toks29
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.basic.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.trigonometric.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.random.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.comparison.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.base.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.round.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.misc.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunction
-s.integerarithmetics.code.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.cod
-e.tex)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.co
-de.tex
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count279
-)))
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.cod
-e.tex
+))) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 \pgffor@iter=\dimen163
 \pgffor@skip=\dimen164
 \pgffor@stack=\toks30
 \pgffor@toks=\toks31
 ))
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-1.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 11.
  (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex
-.def
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count280
 \l__pdf_internal_box=\box55
@@ -229,8 +173,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count281
 \scratchdimen=\dimen165
@@ -243,14 +186,10 @@ LaTeX Font Info:    ... okay on input line 11.
 \MPnumerator=\count285
 \makeMPintoPDFobject=\count286
 \everyMPtoPDFconversion=\toks33
-)
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base
-.sty
+) (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\pc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 <gfx/lines.png, id=1, 188.20313pt x 188.20313pt>
@@ -260,15 +199,13 @@ Package pdftex.def Info: gfx/lines.png  used on input line 14.
 (pdftex.def)             Requested size: 188.20265pt x 188.20265pt.
  [1
 
-{C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pc/AppD
-ata/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./gfx/lines.png>]
+{C:/Users/pc/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./gfx/lines.png>]
 <gfx/fig.png, id=10, 379.4175pt x 351.3125pt>
 File: gfx/fig.png Graphic file (type png)
 <use gfx/fig.png>
 Package pdftex.def Info: gfx/fig.png  used on input line 24.
 (pdftex.def)             Requested size: 379.41656pt x 351.31163pt.
-
-[2 <./gfx/fig.png>]
+ [2 <./gfx/fig.png>]
 <gfx/l2t2.PNG, id=16, 484.81125pt x 331.2375pt>
 File: gfx/l2t2.PNG Graphic file (type png)
 <use gfx/l2t2.PNG>
@@ -320,7 +257,7 @@ File: gfx/l3t5.png Graphic file (type png)
 <use gfx/l3t5.png>
 Package pdftex.def Info: gfx/l3t5.png  used on input line 48.
 (pdftex.def)             Requested size: 309.86002pt x 233.52423pt.
-[6 <./gfx/l3t3.png> <./gfx/l3t4.png>]
+ [6 <./gfx/l3t3.png> <./gfx/l3t4.png>]
 <gfx/l3t6.png, id=41, 513.41812pt x 325.215pt>
 File: gfx/l3t6.png Graphic file (type png)
 <use gfx/l3t6.png>
@@ -337,8 +274,7 @@ File: gfx/l4t2.PNG Graphic file (type png)
 <use gfx/l4t2.PNG>
 Package pdftex.def Info: gfx/l4t2.PNG  used on input line 57.
 (pdftex.def)             Requested size: 341.44879pt x 284.55807pt.
-
-[8
+ [8
 
  <./gfx/l4t1.PNG>]
 <gfx/l4t3.PNG, id=54, 520.19344pt x 421.575pt>
@@ -363,26 +299,66 @@ Overfull \hbox (16.29013pt too wide) in paragraph at lines 66--67
  [] 
  []
 
-[11 <./gfx/l5t1.PNG>] [12 <./gfx/l5t2.PNG>] (weeklyTasks.aux)
+[11 <./gfx/l5t1.PNG>]
+<gfx/l6t1.PNG, id=69, 338.76563pt x 301.125pt>
+File: gfx/l6t1.PNG Graphic file (type png)
+<use gfx/l6t1.PNG>
+Package pdftex.def Info: gfx/l6t1.PNG  used on input line 75.
+(pdftex.def)             Requested size: 341.44756pt x 341.4665pt.
+ [12 <./gfx/l5t2.PNG>]
+<gfx/l6t2.PNG, id=74, 405.76593pt x 385.44pt>
+File: gfx/l6t2.PNG Graphic file (type png)
+<use gfx/l6t2.PNG>
+Package pdftex.def Info: gfx/l6t2.PNG  used on input line 75.
+(pdftex.def)             Requested size: 341.44164pt x 341.42903pt.
+ [13 <./gfx/l6t1.PNG>]
+<gfx/l6t3.PNG, id=80, 398.23781pt x 382.42876pt>
+File: gfx/l6t3.PNG Graphic file (type png)
+<use gfx/l6t3.PNG>
+Package pdftex.def Info: gfx/l6t3.PNG  used on input line 75.
+(pdftex.def)             Requested size: 341.44481pt x 341.45172pt.
+ [14 <./gfx/l6t2.PNG>]
+<gfx/l7t1.PNG, id=85, 248.42813pt x 219.06844pt>
+File: gfx/l7t1.PNG Graphic file (type png)
+<use gfx/l7t1.PNG>
+Package pdftex.def Info: gfx/l7t1.PNG  used on input line 83.
+(pdftex.def)             Requested size: 341.45895pt x 341.44118pt.
+ [15 <./gfx/l6t3.PNG>]
+<gfx/l7t2.PNG, id=90, 321.45094pt x 350.81062pt>
+File: gfx/l7t2.PNG Graphic file (type png)
+<use gfx/l7t2.PNG>
+Package pdftex.def Info: gfx/l7t2.PNG  used on input line 83.
+(pdftex.def)             Requested size: 341.44267pt x 341.45818pt.
+ [16 <./gfx/l7t1.PNG>]
+<gfx/l7t3.PNG, id=95, 317.68687pt x 292.84406pt>
+File: gfx/l7t3.PNG Graphic file (type png)
+<use gfx/l7t3.PNG>
+Package pdftex.def Info: gfx/l7t3.PNG  used on input line 83.
+(pdftex.def)             Requested size: 341.46309pt x 341.46884pt.
+ [17 <./gfx/l7t2.PNG>]
+<gfx/l7t4.PNG, id=100, 470.75874pt x 519.9425pt>
+File: gfx/l7t4.PNG Graphic file (type png)
+<use gfx/l7t4.PNG>
+Package pdftex.def Info: gfx/l7t4.PNG  used on input line 83.
+(pdftex.def)             Requested size: 341.43143pt x 341.43358pt.
+ [18 <./gfx/l7t3.PNG>] [19 <./gfx/l7t4.PNG>] (weeklyTasks.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7342 strings out of 474423
- 142350 string characters out of 5743134
+ 7393 strings out of 474423
+ 143340 string characters out of 5743134
  1927496 words of memory out of 5000000
- 29623 multiletter control sequences out of 15000+600000
+ 29672 multiletter control sequences out of 15000+600000
  571555 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,464b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><
-C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/
-Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on weeklyTasks.pdf (12 pages, 500545 bytes).
+ 57i,6n,65p,484b,265s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/pc/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on weeklyTasks.pdf (19 pages, 904305 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 125 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 111 words of extra memory for PDF output out of 10000 (max. 10000000)
 
